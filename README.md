@@ -16,7 +16,7 @@ This is a remix of gvera's Two way screw ([Thingiverse thing:4690959](https://ww
 
 This is a bolt with sections of both regular right-hand and left-hand threads, joined by a section of two-way thread. Only the two-way nut can run across the entire length of the bolt, by reversing its rotation half way.
 
-I included slightly modified versions of all the nuts, with little triangles indicating the thread direction.
+I included slightly modified versions of all the nuts, with little triangles indicating the thread direction. (Of course the left-threaded nut cannot be screwed on the bolt with end cap.)
 
 I made this in Blender by generating the two regular threads with the same profile as the thread used in gvera's original model, and then semi-manually stitching them to the two-way thread. This was a bit of a chore but still much easier than trying to do a Boolean intersection of the two threads, given how finicky Blender's Boolean operator still is despite recent improvements.
 
